@@ -1,4 +1,4 @@
-# 🧑‍💻 Marvin Khel Cárdenas Realista
+# 🧑‍💻 Marvin DEV
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Student;DAW+Student+%40+IES+Tierno+Galv%C3%A1n" alt="Typing SVG" />
